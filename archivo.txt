@@ -1,1 +1,1 @@
-texto de main
+Texto combinado de MAIN y RAMA1
